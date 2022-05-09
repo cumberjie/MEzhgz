@@ -10,3 +10,4 @@ payload:
   - DOMAIN,edge.microsoft.com
   - DOMAIN,functional.events.data.microsoft.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-KEYWORD,cdn
