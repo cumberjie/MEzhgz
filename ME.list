@@ -4,3 +4,8 @@ DOMAIN-SUFFIX,dyxs15.com
 DOMAIN,clash.razord.top
 DOMAIN,yacd.haishan.me
 DOMAIN-SUFFIX,bing.com
+DOMAIN,edge.activity.windows.com
+DOMAIN,client.wns.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,functional.events.data.microsoft.com
+DOMAIN-KEYWORD,cdn
