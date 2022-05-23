@@ -1,5 +1,6 @@
 # DOMAIN-SUFFIX,cdn0.po18.tw
-
+DOMAIN-KEYWORD,popo.tw
+DOMAIN-KEYWORD,po18.tw
    
 # TikTok
 USER-AGENT,TikTok*
