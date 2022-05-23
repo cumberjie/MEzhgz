@@ -1,13 +1,11 @@
 payload:
  
-  - DOMAIN- KEYWORD,lanzou
-  - DOMAIN- KEYWORD,popo.tw
-  - DOMAIN- KEYWORD,po18.tw
+  - DOMAIN-KEYWORD,lanzou
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
-  - DOMAIN- SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.com
   - DOMAIN,edge.activity.windows.com
   - DOMAIN,client.wns.windows.com
   - DOMAIN,edge.microsoft.com
   - DOMAIN,functional.events.data.microsoft.com
-  - DOMAIN- KEYWORD,cdn
+  - DOMAIN-KEYWORD,cdn
