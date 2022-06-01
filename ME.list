@@ -9,3 +9,4 @@ DOMAIN,functional.events.data.microsoft.com
 # DOMAIN-KEYWORD,cdn
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vercel.com
+DOMAIN-KEYWORD,fastgit
