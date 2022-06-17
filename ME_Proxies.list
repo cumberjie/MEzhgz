@@ -1,7 +1,16 @@
-# DOMAIN-SUFFIX,cdn0.po18.tw
+# po
 DOMAIN-KEYWORD,popo.tw
 DOMAIN-KEYWORD,po18.tw
-   
+ 
+# Mudvod
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nbys.tv
+DOMAIN-SUFFIX,nbyy.tv
+DOMAIN-SUFFIX,nbys1.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,vod360.net  
+
 # TikTok
 USER-AGENT,TikTok*
 DOMAIN-KEYWORD,tiktokcdn-
