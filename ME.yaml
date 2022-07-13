@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,vercel.com
   - DOMAIN-KEYWORD,fastgit
+  - DOMAIN-SUFFIX,github.io
