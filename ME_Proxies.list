@@ -85,7 +85,6 @@ URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,amazon
-DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,dlercloud
