@@ -101,3 +101,7 @@ DOMAIN-KEYWORD,twimg
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
 DOMAIN-KEYWORD,wikileaks
+
+# reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
