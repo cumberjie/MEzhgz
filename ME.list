@@ -7,7 +7,7 @@ DOMAIN,client.wns.windows.com
 DOMAIN,edge.microsoft.com
 DOMAIN,functional.events.data.microsoft.com
 # DOMAIN-KEYWORD,cdn
-DOMAIN-SUFFIX,vercel.app
-DOMAIN-SUFFIX,vercel.com
+# DOMAIN-SUFFIX,vercel.app
+# DOMAIN-SUFFIX,vercel.com
 DOMAIN-KEYWORD,fastgit
 # DOMAIN-SUFFIX,github.io
